@@ -16,6 +16,7 @@ import { Showreel } from './components/Showreel';
 import { Gallery } from './components/Gallery';
 import { ExperienceSkills } from './components/ExperienceSkills';
 import { ContactFooter } from './components/ContactFooter';
+import KoseliPopup from './components/KoseliPopup';
 
 export default function App() {
   return (
@@ -64,6 +65,8 @@ export default function App() {
 
       {/* 10. Follow the Work, Contact / Booking & Minimal Footer */}
       <ContactFooter />
+      <KoseliPopup />
     </div>
+    
   );
 }
