@@ -120,7 +120,7 @@ export const Showreel: React.FC = () => {
         {/* Centered Header */}
         <div className="text-center max-w-2xl mx-auto mb-12 md:mb-16 space-y-4">
           <span className="font-mono-tabular text-xs tracking-[0.28em] text-[#6E6A63] uppercase block">
-            06 / SCREENING ROOM
+             SCREENING ROOM
           </span>
           <h2
             id="showreel-heading"

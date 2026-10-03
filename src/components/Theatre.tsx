@@ -29,7 +29,7 @@ export const Theatre: React.FC = () => {
             transition={{ duration: 0.7 }}
             className="font-mono-tabular text-xs tracking-[0.3em] text-[#D4C5A9] uppercase mb-5"
           >
-            04 / THEATRE
+             THEATRE
           </motion.span>
 
           <div className="overflow-hidden">

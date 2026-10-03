@@ -18,7 +18,7 @@ export const ExperienceSkills: React.FC = () => {
           <div className="flex flex-col md:flex-row md:items-end justify-between pb-12 md:pb-16 border-b border-[#F4F1EA]/10 gap-4">
             <div>
               <span className="font-mono-tabular text-xs tracking-[0.24em] text-[#6E6A63] uppercase block mb-3">
-                08 / CHRONOLOGY
+                CHRONOLOGY
               </span>
               <h2 className="text-3xl sm:text-5xl md:text-6xl font-light tracking-[-0.02em] text-[#F4F1EA] uppercase">
                 EXPERIENCE
@@ -76,7 +76,7 @@ export const ExperienceSkills: React.FC = () => {
           <div className="flex flex-col md:flex-row md:items-end justify-between pb-12 md:pb-16 border-b border-[#F4F1EA]/10 gap-4">
             <div>
               <span className="font-mono-tabular text-xs tracking-[0.24em] text-[#6E6A63] uppercase block mb-3">
-                09 / CRAFT &amp; DISCIPLINES
+                 CRAFT &amp; DISCIPLINES
               </span>
               <h2 className="text-3xl sm:text-5xl md:text-6xl font-light tracking-[-0.02em] text-[#F4F1EA] uppercase">
                 DISCIPLINES

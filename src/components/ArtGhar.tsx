@@ -20,7 +20,7 @@ export const ArtGhar: React.FC = () => {
           className="pb-16 md:pb-24 border-b border-[#F4F1EA]/10"
         >
           <div className="font-mono-tabular text-xs tracking-[0.24em] text-[#6E6A63] uppercase mb-8">
-            05 / CREATIVE LEADERSHIP
+            CREATIVE LEADERSHIP
           </div>
 
           <div className="flex flex-col md:flex-row md:items-center justify-between gap-6 md:gap-10">

@@ -33,7 +33,7 @@ export const About: React.FC = () => {
         <div className="flex flex-col md:flex-row md:items-end justify-between pb-12 md:pb-16 border-b border-[#F4F1EA]/10 gap-4">
           <div>
             <span className="font-mono-tabular text-xs tracking-[0.24em] text-[#6E6A63] uppercase block mb-3">
-              02 / BIOGRAPHY
+               BIOGRAPHY
             </span>
             <h2
               id="about-heading"

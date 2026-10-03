@@ -87,7 +87,7 @@ export const Statement: React.FC = () => {
         {/* Top Section Index */}
         <div className="flex items-center justify-between pb-12 md:pb-16 border-b border-[#F4F1EA]/10">
           <span className="font-mono-tabular text-xs tracking-[0.24em] text-[#6E6A63] uppercase">
-            01 / PROLOGUE &amp; ACTOR INTRODUCTION
+             PROLOGUE &amp; ACTOR INTRODUCTION
           </span>
           <span className="font-mono-tabular text-xs tracking-[0.22em] text-[#D4C5A9] uppercase">
             SANTOSH BISTA

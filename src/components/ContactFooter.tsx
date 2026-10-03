@@ -86,7 +86,7 @@ export const ContactFooter: React.FC = () => {
           <div className="grid grid-cols-1 lg:grid-cols-12 gap-12 items-start">
             <div className="lg:col-span-4">
               <span className="font-mono-tabular text-xs tracking-[0.24em] text-[#6E6A63] uppercase block mb-3">
-                10 / SOCIAL CHANNELS
+                 SOCIAL CHANNELS
               </span>
               <h2
                 id="follow-work-heading"
