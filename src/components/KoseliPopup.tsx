@@ -180,7 +180,7 @@ export default function KoseliPopup() {
             </div>
 
             <p className="mt-8 text-[10px] uppercase tracking-[0.2em] text-white/25">
-              Press ESC to close
+              
             </p>
           </div>
         </div>
