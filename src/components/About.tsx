@@ -171,7 +171,7 @@ export const About: React.FC = () => {
               </h3>
               <div className="grid grid-cols-2 sm:grid-cols-3 gap-y-6 gap-x-8">
                 {[
-                  { role: 'Actor', scope: '12+ Short Films & Musical Cinema' },
+                  { role: 'Actor', scope: '12+ Short Films & Musical Films' },
                   { role: 'Theatre Artist', scope: 'Live Stage Performance' },
                   { role: 'Director', scope: 'Stage & Narrative Direction' },
                   { role: 'Drama Educator', scope: 'Kavya School' },
